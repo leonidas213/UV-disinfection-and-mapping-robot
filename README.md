@@ -8,6 +8,9 @@
   <h3 align="center">mapping robot with ultrasonic ditance sensor</h3>
 
   <p align="center">
+    
+    <br/>
+    <br/>
   </p>
 </p>
 
@@ -15,7 +18,7 @@
 
 ## About The Project
 
-![](bit-Sheet.png)
+![Screen Shot](images/screenshot.png)
 
 Mapping robot with modified tréamux
 
@@ -32,9 +35,9 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Leonidas213/
 
 ## Authors
 
-* **Bahri Berkant İçöz** - *Student* - *Author*
-* **Umut Kaya** - *Student* - *Author*
-* **Enes Yuvarlan** - *Student*  - *Author*
+* **Bahri Berkant İçöz** - *eee Student* - [Bahri Berkant İçöz](https://github.com/leonidas213) - *Author*
+* **Umut Kaya** - *Student* - [Umut Kayan](https://github.com/UmutKaya05) - *Author*
+* **Enes Yuvarlan** - *Student* - [Enes Yuvarlan](https://github.com/nsyvrln) - *Author*
 
 ## Acknowledgements
 
