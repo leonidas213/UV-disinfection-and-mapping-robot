@@ -8,9 +8,6 @@
   <h3 align="center">mapping robot with ultrasonic ditance sensor</h3>
 
   <p align="center">
-    
-    <br/>
-    <br/>
   </p>
 </p>
 
@@ -18,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![](bit-Sheet.png)
 
 Mapping robot with modified tréamux
 
