@@ -35,9 +35,9 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Leonidas213/
 
 ## Authors
 
-* **Bahri Berkant İçöz** - *eee Student* - [Bahri Berkant İçöz](url) - *contribution*
-* **Umut Kaya** - *Student* - [Umut Kaya](url) - *contribution*
-* **Enes Yuvarlan** - *Student* - [Enes Yuvarlan](url) - *contribution*
+* **Bahri Berkant İçöz** - *eee Student* - *Author*
+* **Umut Kaya** - *Student* - *Author*
+* **Enes Yuvarlan** - *Student*  - *Author*
 
 ## Acknowledgements
 
